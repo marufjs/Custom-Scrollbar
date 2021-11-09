@@ -1,3 +1,3 @@
-# Custom-Scrollbar [Tutorial Link](https://www.youtube.com/c/MdMarufSarker/)
+# Custom-Scrollbar [Tutorial Link](https://youtu.be/2jjQZlbiwRE)
 
 ![Custom Scrollbar](./scrollbar.png)
